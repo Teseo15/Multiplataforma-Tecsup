@@ -1,0 +1,16 @@
+D:\TECSUP\5CICLO\Multiplataforma\Laboratorios\semana1\rectangulo\bin\Debug\net5.0\rectangulo.exe
+D:\TECSUP\5CICLO\Multiplataforma\Laboratorios\semana1\rectangulo\bin\Debug\net5.0\rectangulo.deps.json
+D:\TECSUP\5CICLO\Multiplataforma\Laboratorios\semana1\rectangulo\bin\Debug\net5.0\rectangulo.runtimeconfig.json
+D:\TECSUP\5CICLO\Multiplataforma\Laboratorios\semana1\rectangulo\bin\Debug\net5.0\rectangulo.runtimeconfig.dev.json
+D:\TECSUP\5CICLO\Multiplataforma\Laboratorios\semana1\rectangulo\bin\Debug\net5.0\rectangulo.dll
+D:\TECSUP\5CICLO\Multiplataforma\Laboratorios\semana1\rectangulo\bin\Debug\net5.0\ref\rectangulo.dll
+D:\TECSUP\5CICLO\Multiplataforma\Laboratorios\semana1\rectangulo\bin\Debug\net5.0\rectangulo.pdb
+D:\TECSUP\5CICLO\Multiplataforma\Laboratorios\semana1\rectangulo\obj\Debug\net5.0\rectangulo.csproj.AssemblyReference.cache
+D:\TECSUP\5CICLO\Multiplataforma\Laboratorios\semana1\rectangulo\obj\Debug\net5.0\rectangulo.GeneratedMSBuildEditorConfig.editorconfig
+D:\TECSUP\5CICLO\Multiplataforma\Laboratorios\semana1\rectangulo\obj\Debug\net5.0\rectangulo.AssemblyInfoInputs.cache
+D:\TECSUP\5CICLO\Multiplataforma\Laboratorios\semana1\rectangulo\obj\Debug\net5.0\rectangulo.AssemblyInfo.cs
+D:\TECSUP\5CICLO\Multiplataforma\Laboratorios\semana1\rectangulo\obj\Debug\net5.0\rectangulo.csproj.CoreCompileInputs.cache
+D:\TECSUP\5CICLO\Multiplataforma\Laboratorios\semana1\rectangulo\obj\Debug\net5.0\rectangulo.dll
+D:\TECSUP\5CICLO\Multiplataforma\Laboratorios\semana1\rectangulo\obj\Debug\net5.0\ref\rectangulo.dll
+D:\TECSUP\5CICLO\Multiplataforma\Laboratorios\semana1\rectangulo\obj\Debug\net5.0\rectangulo.pdb
+D:\TECSUP\5CICLO\Multiplataforma\Laboratorios\semana1\rectangulo\obj\Debug\net5.0\rectangulo.genruntimeconfig.cache
